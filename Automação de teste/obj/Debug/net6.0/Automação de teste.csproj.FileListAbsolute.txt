@@ -1,0 +1,38 @@
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\Automação de teste.exe
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\Automação de teste.deps.json
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\Automação de teste.runtimeconfig.json
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\Automação de teste.dll
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\Automação de teste.pdb
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.csproj.AssemblyReference.cache
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.AssemblyInfoInputs.cache
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.AssemblyInfo.cs
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.csproj.CoreCompileInputs.cache
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.dll
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\refint\Automação de teste.dll
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.pdb
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.genruntimeconfig.cache
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\ref\Automação de teste.dll
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\Automação de teste.exe
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\Automação de teste.deps.json
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\Automação de teste.runtimeconfig.json
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\Automação de teste.dll
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\Automação de teste.pdb
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.csproj.AssemblyReference.cache
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.AssemblyInfoInputs.cache
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.AssemblyInfo.cs
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.csproj.CoreCompileInputs.cache
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.dll
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\refint\Automação de teste.dll
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.pdb
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.genruntimeconfig.cache
+C:\Users\luang\Desktop\C#\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\ref\Automação de teste.dll
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\ClosedXML.dll
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\Irony.dll
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\bin\Debug\net6.0\XLParser.dll
+D:\༼ つ ◕_◕ ༽つ\Automacao_de_teste\Automação de teste\Automação de teste\obj\Debug\net6.0\Automação de teste.csproj.CopyComplete

@@ -1,0 +1,78 @@
+<PLC>
+
+<Tag_externa Name ="Valorx" >
+		<DataType>Bool</DataType>
+		<Value>0</Value>
+</Tag_externa>
+
+	<Program>
+	
+		<Tag_interna>
+			<DataType>Bool</DataType>
+			<Value>0</Value>
+		</Tag_Interna>
+		
+		<Line>
+			<And>
+			
+				<Operant position = "1">
+					<Tag>(Tag_Interna or Tag_externa)</Tag>
+					<Type = "Contact">
+				</Operant>
+				
+				<Or>
+					<Operant>
+						<Tag>(Tag_Interna or Tag_externa)</Tag>
+						<Type = "Negated_Contact">
+					</Operant>
+					
+					<Operant>
+						<Tag>(Tag_Interna or Tag_externa)</Tag>
+						<Type = "Contact">
+					</Operant>
+				</Or>
+				
+			</And>
+			<or>
+				<and>
+					<Operant>
+						<Tag>(Tag_Interna or Tag_externa)</Tag>
+						<Type = "Contact">
+					</Operant>
+					
+					<Result>
+						<Tag>(Tag_Interna or Tag_externa)</Tag>
+						<Type = "Result">
+					</Result>
+				</and>
+				
+				<and>
+					<Operant>
+						<Tag>(Tag_Interna or Tag_externa)</Tag>
+						<Type = "Contact">
+					</Operant>
+					
+					<Result>
+						<Tag>(Tag_Interna or Tag_externa)</Tag>
+						<Type = "Result">
+					</Result>
+				</and>
+				
+				<and>
+					<Operant>
+						<Tag>(Tag_Interna or Tag_externa)</Tag>
+						<Type = "Contact">
+					</Operant>
+					
+					<Result>
+						<Tag>(Tag_Interna or Tag_externa)</Tag>
+						<Type = "Result">
+					</Result>
+				</and>
+			</or>
+		</Line>
+		
+	</Program>
+</PLC>
+
+
